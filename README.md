@@ -67,6 +67,7 @@ src/
   ocr_extractor.py  # OpenCV + Tesseract OCR module
   comparator.py     # Similarity scoring module
   reporter.py       # HTML report generator
+  evaluator.py      # Accuracy evaluation — precision, recall, F1 against ground truth
   cli.py            # CLI entry point
 tests/
   # pytest test suite
