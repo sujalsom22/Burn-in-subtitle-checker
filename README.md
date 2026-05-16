@@ -1,3 +1,7 @@
+![Tests](https://img.shields.io/badge/tests-107%20passing-brightgreen)
+![Python](https://img.shields.io/badge/python-3.9%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 # Burn-in Subtitle Checker
 
 An open-source Python tool that automatically detects mismatches between
